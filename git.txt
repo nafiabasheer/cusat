@@ -1,0 +1,6 @@
+frst clone- copy to locl system
+pull -  copy to locl system with all changes
+push - local sytem to github
+
+fork - copy som1 elses repository in github with same name 
+branch - copy our repository in local system with diff name
